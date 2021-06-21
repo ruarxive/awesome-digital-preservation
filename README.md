@@ -4,7 +4,7 @@ Awesome list of digital preservation tools
 
 ### Table of contents
 
-* [Web Archival](#web-archival)
+* [Web Archiving](#web-archiving)
 
 * [Social networks](#social-networks)
 
@@ -15,7 +15,7 @@ Awesome list of digital preservation tools
 * [Related lists](#related-lists)
 
 
-## Web archival
+## Web archiving
 
 ### Open source
 
@@ -39,6 +39,8 @@ Awesome list of digital preservation tools
 
 ### Online services
 
+* [ArchiveIt](https://archive-it.org/) - web archiving online services
+
 ## Social Networks
 
 ### Twitter
@@ -51,7 +53,15 @@ Awesome list of digital preservation tools
 
 ## Organizations
 
+* [Digital preservation coalition](https://www.dpconline.org/) - The DPC is a not-for-profit company dedicated to digital preservation inititatives
+
+* [International Internet Preservation Consortium ](https://netpreserve.org/) - Leading consortium for web archiving
+
 ## Major digital archives
+
+* [Internet Archive](https://archive.org/) - biggest digital archive with big web archives
+
+* [Common Crawl](https://commoncrawl.org) - open data search engine index crawled from whole Internet
 
 ## Related lists
 
