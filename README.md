@@ -223,6 +223,10 @@ Tools for archiving content beyond traditional web pages.
   - **Type:** CLI
   - **Open Source:** Yes
   - **Platform:** Linux / macOS / Windows
+* **[Telegram Archive](https://github.com/GeiserX/Telegram-Archive)** - Automated Telegram backup with incremental message and media archiving, checkpoint-based resume, media deduplication, and database storage (SQLite/PostgreSQL).
+  - **Type:** Service
+  - **Open Source:** Yes (GPL-3.0)
+  - **Platform:** Docker
 
 ### Specific CMS
 * **[wparc](https://github.com/ruarxive/wparc)** - Archives WordPress API data and files.
