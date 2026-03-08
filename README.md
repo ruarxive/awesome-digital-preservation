@@ -165,6 +165,10 @@ Tools and services for capturing, replaying, and analyzing web content.
   - **Type:** CLI
   - **Open Source:** Yes
   - **Platform:** Linux / macOS / Windows
+* **[Wayback-Archive](https://github.com/GeiserX/Wayback-Archive)** - Downloads complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - **Type:** CLI
+  - **Open Source:** Yes
+  - **Platform:** Linux / macOS / Windows
 * **[Archivenow](https://github.com/oduwsdl/archivenow)** - Command-line tool to push resources into web archives.
   - **Type:** CLI
   - **Open Source:** Yes
