@@ -227,6 +227,10 @@ Tools for archiving content beyond traditional web pages.
   - **Type:** CLI
   - **Open Source:** Yes
   - **Platform:** Linux / macOS / Windows
+* **[Telegram-Archive](https://github.com/GeiserX/Telegram-Archive)** - Docker-based tool to export and archive complete Telegram chat histories including media, preserving messages in structured formats.
+  - **Type:** CLI
+  - **Open Source:** Yes
+  - **Platform:** Docker
 
 ### Specific CMS
 * **[wparc](https://github.com/ruarxive/wparc)** - Archives WordPress API data and files.
