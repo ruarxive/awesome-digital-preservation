@@ -101,6 +101,10 @@ Tools and services for capturing, replaying, and analyzing web content.
   - **Platform:** Linux / Docker
 
 ### Replay & Access
+* **[Archivarix Tube Search](https://tube.archivarix.net)** - Search engine over ~1.5 billion archived YouTube videos consolidating Wayback Machine, Internet Archive, and proprietary captures. Provides full-text search, channel browsing for terminated channels, and auto-generated transcripts.
+  - **Type:** Service
+  - **Open Source:** Backend proprietary; MCP client open source ([github.com/Archivarix-com/tube-search-mcp](https://github.com/Archivarix-com/tube-search-mcp))
+  - **Platform:** Cloud / Browser
 * **[ArchiveWeb.page](https://github.com/webrecorder/archiveweb.page)** - Browser extension for high-fidelity web archiving.
   - **Type:** GUI
   - **Open Source:** Yes
