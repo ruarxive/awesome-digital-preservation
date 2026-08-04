@@ -276,6 +276,10 @@ End-to-end systems for ingest, storage, and access.
   - **Type:** Service
   - **Open Source:** Yes
   - **Platform:** Cloud
+* **[AlgoVoi Verifiable Compliance Suite](https://algovoi.co.uk/verifiable-compliance-suite.html)** - Self-hosted, air-gap-capable preservation and compliance-evidence platform: write-once, content-addressed, tamper-evident archive with post-quantum signatures and offline verification.
+  - **Type:** Service
+  - **Open Source:** No
+  - **Platform:** Self-hosted / Linux / Docker
 
 ## Preservation Storage & Replication
 
