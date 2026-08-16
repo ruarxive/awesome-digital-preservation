@@ -280,6 +280,10 @@ End-to-end systems for ingest, storage, and access.
   - **Type:** Service
   - **Open Source:** Yes
   - **Platform:** Cloud
+* **[ledger](https://github.com/ChelseaKR/ledger)** - Community-governed archive with content-addressed storage, fixity checking, PREMIS and METS metadata, BagIt packaging, OAI-PMH access, and consent-based selective disclosure. Beta, pre-1.0.
+  - **Type:** Service
+  - **Open Source:** Yes
+  - **Platform:** Linux / macOS / Docker
 
 ## Preservation Storage & Replication
 
