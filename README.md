@@ -414,6 +414,10 @@ Tools for capture and forensic workflows before preservation ingest.
   - **Type:** CLI
   - **Open Source:** Yes
   - **Platform:** Linux / macOS / Windows
+* **[Binary Backtrace](https://binarybacktrace.com)** - Browser tools for looking inside disc images (ISO 9660, UDF, BIN/CUE, CHD, WIM) and for examining files in a hex editor with structure templates, with nothing uploaded or installed.
+  - **Type:** GUI
+  - **Open Source:** No
+  - **Platform:** Browser
 
 ## Metadata Standards & Tools
 
