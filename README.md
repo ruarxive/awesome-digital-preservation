@@ -235,6 +235,10 @@ Tools for archiving content beyond traditional web pages.
   - **Type:** CLI
   - **Open Source:** Yes
   - **Platform:** Docker
+* **[Chatbound](https://peakappsstudio.com/character-ai-export-viewer/)** - Opens the password-protected Character.AI data export in the browser and saves each chat as HTML, plain text or Markdown, for users keeping a copy of their chat history.
+  - **Type:** GUI
+  - **Open Source:** No
+  - **Platform:** Browser
 
 ### Specific CMS
 * **[wparc](https://github.com/ruarxive/wparc)** - Archives WordPress API data and files.
