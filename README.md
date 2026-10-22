@@ -7,6 +7,14 @@ a strong focus on web archiving.
 
 Last updated: 2026-01-20
 
+> [!WARNING]
+> For contributors: AI-generated pull requests and issues are not permitted. Any AI automated PR or issue will lead to a permanent ban, and the proposed service will not be considered. No exclusions. Human contributors are always welcome.
+>
+> Any AI slop projects and services will not added till at least 3 months reviews or even more. If it doesn't create anything unique/different from already added projects or services, most likely it will not added.
+> 
+> All these measured are against rapidly growing AI spam and low-quality AI slop projects. Human contributors are always welcome.
+
+
 ## Scope & Inclusion Criteria
 
 - Includes tools, standards, registries, and organizations that directly
